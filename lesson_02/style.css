@@ -3,10 +3,10 @@ body{
 
 }
 
-h1,h2{
+h1 {
     color:blue;
-
 }
+
 
 p{
     color:purple;
@@ -19,4 +19,9 @@ p{
 
 #second{
     font-style:italic;
+}
+
+p span{
+    text-transform:uppsercase;
+    background-color:gold;
 }
